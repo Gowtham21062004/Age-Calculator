@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    border: 2px solid black;
+    width: 250px;
+    margin: 0 auto;
+    padding: 3px;
+    box-shadow: 2px 2px  red;
+    background-color: rgb(220, 229, 45);
+}
+label{
+    font-size: large;
+}
+.date{
+    border: 2px solid black;
+    padding: 3px;
+    background-color: rgb(126, 126, 214);
+
+}
+button{
+    border: 2px solid black;
+    background-color: chartreuse;
+    color: white;
+    padding: 3px;
+}
+.result{
+    font-size: large;
+}
+h3{
+    font-size: large;
+    color: firebrick;
+}
